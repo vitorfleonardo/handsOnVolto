@@ -1,0 +1,8 @@
+{
+  "volto-plone_project": {
+    "local": "addons/volto-plone_project/src"
+  },
+  "plone_project_addon": {
+    "local": "addons/plone_project/src"
+  }
+}
